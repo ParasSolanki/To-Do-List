@@ -1,7 +1,7 @@
 # To-Do-List
 
-In this GUI (Graphical User Interface) you can add your daily To-Do Task and you can also set reminder for your To-Do task.
+In this GUI (Graphical User Interface) you can add your daily To-Do Task and you can also set reminders for your To-Do task. 
 
-You can also save your To-Do task in your PC.
+You can also save your To-Do task on your PC or on your laptop.
 
 
